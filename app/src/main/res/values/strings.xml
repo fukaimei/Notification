@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="pause_event">com.fukaimei.notification.service.pause</string>
+</resources>
